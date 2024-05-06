@@ -1,0 +1,12 @@
+.expense-filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 .5rem;
+    color: #fff;
+}
+
+.expense-filter select {
+    padding: .5rem 2rem;
+    border-radius: 6px;
+}

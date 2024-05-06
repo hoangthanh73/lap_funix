@@ -1,0 +1,12 @@
+.button {
+    padding: 12px 32px;
+    color: #fff;
+    background-color: #8b005d;
+    border: none;
+}
+
+@media (max-width: 768px) {
+    .button {
+        width: 100%;
+    }
+}

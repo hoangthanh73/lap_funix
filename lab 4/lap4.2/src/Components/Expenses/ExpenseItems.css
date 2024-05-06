@@ -1,0 +1,12 @@
+.expense-item__wrapper {
+    background: inherit;
+}
+
+.expense-notfound p {
+    color: #fff;
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
